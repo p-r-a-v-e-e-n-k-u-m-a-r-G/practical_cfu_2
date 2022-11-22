@@ -1,0 +1,77 @@
+
+    
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.btn-1{
+    background:rgb(208, 216, 232);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: bolder;
+    border-color: rgb(255, 255, 255);
+}
+.btn-1 {
+    width: 40%;
+    height: 50px;
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 1px;
+    padding: 5px 5px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+.logo{
+    width: 18%;
+    padding: 40px;
+    padding-top: 15px;
+    margin: 5px;
+}
+h1 {
+padding: 90px;
+padding-top: 10px;
+
+font-size: 60px;
+font-family:  Tahoma, Verdana, sans-serif;
+}
+.p-1 {
+    font-family:  Tahoma, Verdana, sans-serif;
+    color: rgb(100, 132, 194);
+    margin-left: 0px;
+    padding: 80px;
+    padding-top: -0px;
+    text-align:left;
+    
+}
+.p-2 {
+    color: rgb(100, 132, 194);    
+}
+.btn-2 {
+
+background:rgb(255, 119, 0);
+color: hsl(0, 0%, 100%);
+font-size: 15px;
+font-weight: bolder;
+border-color: rgb(255, 136, 1);
+}
+.btn-2{
+    
+    width: 10%;
+    height: 50px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 130px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+.p-2 {
+    padding: 100px 7.3%;
+    margin-left: 210px;
+    margin-top: -30px;
+
+}
+
